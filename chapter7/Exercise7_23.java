@@ -8,15 +8,14 @@ public class Exercise7_23 {
 		Arrays.fill(lockerArray, false);
 		for (int i = 0; i < lockerArray.length; i++) {
 			for (int z = 0; z < lockerArray.length; z++) {
-				if (z == 0)
-					lockerArray[i] = !lockerArray[i];
-				else if (i == 0)
-					lockerArray[i] = lockerArray[i];
-				else if (i % z == 0)	
+				if ((i + 1) % (z + 1) == 0.000000)	
 					lockerArray[i] = !lockerArray[i];
 					
 			}
-			System.out.println(lockerArray[i]);
+			if (lockerArray[i])
+				System.out.println("The locker " + (i + 1) +  " is open");
+			else
+				System.out.println("The locker " + (i + 1) +  " is closed");
 		}
 		
 	}
