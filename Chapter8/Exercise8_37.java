@@ -1,3 +1,6 @@
+//@author Casey Lambert
+//Date: October 7, 2019
+
 import java.lang.*;
 import java.util.Scanner;
 

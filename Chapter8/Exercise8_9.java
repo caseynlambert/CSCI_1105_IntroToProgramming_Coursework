@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-class Untitled {
+class Exercise8_9 {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		char[][] board = new char[3][3];
