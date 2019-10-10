@@ -45,8 +45,8 @@ public class FinalProjectTest {
 ```
 
 ## Contributors
-My two instructors have guided me on my journey to creating this program:
+My two instructors have guided me on my journey to creating this program:  
 Rocky Mazorow  
 Greg Davis  
-If anyone would like to contribute send me an email at caseynlambert@gmail.com.
+If anyone would like to contribute send me an email at caseynlambert@gmail.com.  
 I know most of you could easily blow this measly first project out of the water, so DO IT!
