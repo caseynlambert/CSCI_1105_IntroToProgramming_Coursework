@@ -11,7 +11,7 @@ If I can use what I know in programming to help me financially that would be ver
 
 
 ## How to Run
-All that is needed is FinalProject.java in order to run
+All that is needed is FinalProject.java in order to run.
 Here is what it should look like
 [Program running](Program running.png)
 
