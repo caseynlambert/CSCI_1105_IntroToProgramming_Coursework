@@ -13,7 +13,7 @@ If I can use what I know in programming to help me financially that would be ver
 ## How to Run
 All that is needed is FinalProject.java in order to run.
 Here is what it should look like
-[Program running](Program running.png)
+![Program running](https://github.com/caseynlambert/CSCI_1105_IntroToProgramming_Coursework/blob/master/Final%20Project/Program%20running.png)
 
 ## Code Example
 I make 3 arrays based, on how many expenses the user enters. I am proud of this because I was able to create 3 arrays without
