@@ -35,7 +35,7 @@ public class FinalProject {
 			hours = input.nextInt();
 			System.out.print("How much are you payed per hour?: \n$");
 			wagePerHour = input.nextDouble();
-			income = hours * wagePerHour;
+			income = 4 * hours * wagePerHour;
 		}
 		if (monthlyWage(wage) == "Salary") {
 			System.out.print("How much are you payed a year in salary?: \n$");
