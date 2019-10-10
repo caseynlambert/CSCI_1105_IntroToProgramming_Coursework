@@ -12,7 +12,7 @@ If I can use what I know in programming to help me financially that would be ver
 
 ## How to Run
 All that is needed is FinalProject.java in order to run
-[Program Running](Program running.png)
+[Program running](Program running.png)
 
 ## Code Example
 I make 3 arrays based, on how many expenses the user enters. I am proud of this because I was able to create 3 arrays without
